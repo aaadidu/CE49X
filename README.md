@@ -31,6 +31,8 @@ Upon successful completion of this course, students will be able to:
 - **Reference Book 1:** VanderPlas, J. *A Whirlwind Tour of Python* (included in `book1_python_handbook/`)
 - **Reference Book 2:** VanderPlas, J. *Python Data Science Handbook* (included in `book2_datascience_handbook/`)
 - **Software:** Python 3.10+, Jupyter Notebook, required libraries (NumPy, Pandas, Matplotlib, Scikit-learn)
+- **IDE:** [Cursor](https://cursor.com/), VS Code, or any IDE of your choice with AI/LLM integration
+- **AI Tools:** Students are encouraged to set up LLM-powered coding assistants (e.g., Claude Code, Gemini CLI) to support their workflow
 
 ## Grading
 
