@@ -1,0 +1,797 @@
+station_id,name,brand,operator,latitude,longitude,source
+node/266753132,Aytemiz,Aytemiz,Shell,40.8968375,29.2249513,OpenStreetMap Overpass
+node/269367213,Opet,Opet,Alpet,41.0260804,28.9797859,OpenStreetMap Overpass
+node/278335431,Petrol Ofisi,Petrol Ofisi,,41.0288378,29.0174396,OpenStreetMap Overpass
+node/288789439,Petrol Ofisi,Petrol Ofisi,,41.1141944,29.0599219,OpenStreetMap Overpass
+node/446288239,Class Petrol,Class Petrol,,41.0001901,28.8007381,OpenStreetMap Overpass
+node/552869782,Shell,Shell,,40.9989931,29.1549337,OpenStreetMap Overpass
+node/568011021,Opet,Opet,Artek Petrol,41.0550943,28.9992938,OpenStreetMap Overpass
+node/618202926,,,,40.8055483,29.4960753,OpenStreetMap Overpass
+node/618202932,,,,40.809658,29.5087582,OpenStreetMap Overpass
+node/772439779,Shell Baban Petrol,Shell,,41.0050371,29.0307907,OpenStreetMap Overpass
+node/932363710,Shell,Shell,,41.05594,28.9977006,OpenStreetMap Overpass
+node/1670461592,Total,TotalEnergies,,40.9876439,29.087031,OpenStreetMap Overpass
+node/1672420097,Shell,Shell,,41.0877238,29.0177524,OpenStreetMap Overpass
+node/1695103519,Total,TotalEnergies,,41.0042734,28.6841172,OpenStreetMap Overpass
+node/1705108267,,,,40.8619926,29.3875044,OpenStreetMap Overpass
+node/1705380902,,,,40.8733759,29.4081536,OpenStreetMap Overpass
+node/1713488174,Opet,Opet,,40.9783258,29.1235487,OpenStreetMap Overpass
+node/1755203245,Total,TotalEnergies,,40.9835054,29.0919078,OpenStreetMap Overpass
+node/1830235496,,,,41.2275004,28.4916451,OpenStreetMap Overpass
+node/1905650685,Opet,Opet,,40.8815155,29.2403352,OpenStreetMap Overpass
+node/1905900747,Shell,Shell,,40.8756773,29.2328762,OpenStreetMap Overpass
+node/1907466158,Türkiye Petrolleri,Türkiye Petrolleri,,40.8988275,29.3692152,OpenStreetMap Overpass
+node/1907466259,Türkiye Petrolleri,Türkiye Petrolleri,,40.9085841,29.3609713,OpenStreetMap Overpass
+node/1913379075,BP,BP,,40.8657172,29.3783242,OpenStreetMap Overpass
+node/1920258400,Petrol Ofisi,Petrol Ofisi,,41.0492898,29.0768296,OpenStreetMap Overpass
+node/2257504633,Aytemiz,Aytemiz,,40.9676174,29.1026273,OpenStreetMap Overpass
+node/2257505250,BP,BP,,40.9664225,29.1033193,OpenStreetMap Overpass
+node/2257506320,Total,TotalEnergies,,40.966139,29.1047838,OpenStreetMap Overpass
+node/2264750239,Shell,Shell,,41.0370814,29.1556729,OpenStreetMap Overpass
+node/2277832475,Alpet Gürpınar,Alpet,Alpet,40.9961049,28.6252197,OpenStreetMap Overpass
+node/2363493667,,,,40.8358408,29.323905,OpenStreetMap Overpass
+node/2371245378,,,,40.8015784,29.5263931,OpenStreetMap Overpass
+node/2381588597,,,,40.8992467,29.5220969,OpenStreetMap Overpass
+node/2384550847,,,,40.8878295,29.7699498,OpenStreetMap Overpass
+node/2392806044,,,,41.1351115,28.4656276,OpenStreetMap Overpass
+node/2392806726,,,,41.1579646,28.4545528,OpenStreetMap Overpass
+node/2392806728,,,,41.1580163,28.4540224,OpenStreetMap Overpass
+node/2392986716,Opet,Opet,,41.0156405,29.074591,OpenStreetMap Overpass
+node/2392986717,Shell,Shell,,41.0167626,29.0760902,OpenStreetMap Overpass
+node/2429198871,Total,TotalEnergies,,41.041378,28.832275,OpenStreetMap Overpass
+node/2610629148,Shell,Shell,,40.8868524,29.2399111,OpenStreetMap Overpass
+node/2716711598,Shell Şenlikköy,Shell,,40.9879309,28.7960684,OpenStreetMap Overpass
+node/2928531148,Opet,Opet,,40.9994399,28.7135734,OpenStreetMap Overpass
+node/2999419474,Shell,Shell,,40.97084,29.083573,OpenStreetMap Overpass
+node/3095087044,,,,41.0880723,29.3438026,OpenStreetMap Overpass
+node/3130909268,Opet,Opet,,41.0080248,28.8816979,OpenStreetMap Overpass
+node/3170739257,Shell - Karma Grup,Shell,,40.9897124,28.6651997,OpenStreetMap Overpass
+node/3474488522,BP,BP,,41.0947275,29.0975854,OpenStreetMap Overpass
+node/3474488524,Shell,Shell,,41.0799651,29.0708251,OpenStreetMap Overpass
+node/3474488526,,,,41.081143,29.0770445,OpenStreetMap Overpass
+node/3728846486,Kurtuluş Total,,,41.0446779,28.9783544,OpenStreetMap Overpass
+node/3790969409,Opet,Opet,,41.1175416,29.0234658,OpenStreetMap Overpass
+node/3955643614,Shell,Shell,,40.937381,29.1410698,OpenStreetMap Overpass
+node/3996188487,BP,BP,,41.0601831,28.6884886,OpenStreetMap Overpass
+node/3996189675,BP,BP,,41.0600444,28.6880999,OpenStreetMap Overpass
+node/4165097565,Best House rental of apartment,Best,,41.0501819,29.0237229,OpenStreetMap Overpass
+node/4255747089,Aytemiz,Aytemiz,,41.062944,28.9508759,OpenStreetMap Overpass
+node/4303169790,Türkiye Petrolleri,,,41.0800851,28.7940823,OpenStreetMap Overpass
+node/4309080389,Petrol Ofisi,Petrol Ofisi,Petropark,40.893878,29.3550994,OpenStreetMap Overpass
+node/4371188639,Petrol Ofisi,Petrol Ofisi,,41.101313,29.2901302,OpenStreetMap Overpass
+node/4371188640,Shell,Shell,,41.0920655,29.2878451,OpenStreetMap Overpass
+node/4416266553,Petrol Ofisi,Petrol Ofisi,,41.0085765,29.2016649,OpenStreetMap Overpass
+node/4419028247,occidental pees hotel Istanbul,Occidental,Room Mate,41.0337252,28.9758177,OpenStreetMap Overpass
+node/4442145256,Opet,Opet,,40.8811477,29.2553456,OpenStreetMap Overpass
+node/4527983519,Shell-Arpet Petrol,Shell,,41.0079948,28.5374571,OpenStreetMap Overpass
+node/4580488790,Shell,Shell,,40.8892845,29.1811831,OpenStreetMap Overpass
+node/4699018047,Opet Sultanbeyli,Opet,Opet Petrolcülük A.Ş.,40.9612,29.282842,OpenStreetMap Overpass
+node/4699018050,Opet Pendik,Opet,Opet Petrolcülük A.Ş.,40.9093711,29.2951636,OpenStreetMap Overpass
+node/4699018051,Opet Hoşdere Petrol,Opet,Opet Petrolcülük A.Ş.,41.080441,28.652694,OpenStreetMap Overpass
+node/4699018057,Opet Küçükçekmece Halkalı,Opet,Opet Petrolcülük A.Ş.,41.0292155,28.8065018,OpenStreetMap Overpass
+node/4699018077,Petrol Ofisi,Petrol Ofisi,Petrol Ofisi,41.0112488,29.0752818,OpenStreetMap Overpass
+node/4699018204,Opet Bakırköy,Opet,Opet Petrolcülük A.Ş.,40.9877235,28.883948,OpenStreetMap Overpass
+node/4699018205,Opet Beyoğlu,Opet,Opet Petrolcülük A.Ş.,41.041235,28.967225,OpenStreetMap Overpass
+node/4699018213,Opet Tuzla,Opet,Opet Petrolcülük A.Ş.,40.9076681,29.3433329,OpenStreetMap Overpass
+node/4699018226,Opet Bahçelievler Çobançeşme,Opet,Erhan Dedeoğlu Petrol,40.9930848,28.8272163,OpenStreetMap Overpass
+node/4699018227,Opet Bağcılar,Opet,Opet Petrolcülük A.Ş.,41.0547206,28.8405747,OpenStreetMap Overpass
+node/4699018229,Opet Ümraniye,Opet,Opet Petrolcülük A.Ş.,41.0225022,29.1159204,OpenStreetMap Overpass
+node/4699018232,Aytemiz,Aytemiz,,41.0582146,28.7307071,OpenStreetMap Overpass
+node/4699018234,Opet,Opet,Opet Petrolcülük A.Ş.,41.023118,28.686603,OpenStreetMap Overpass
+node/4699018235,Shell,Shell,,40.9053415,29.2853766,OpenStreetMap Overpass
+node/4699018244,Petrol Ofisi,Petrol Ofisi,Opet Petrolcülük A.Ş.,41.00829,29.02304,OpenStreetMap Overpass
+node/4699018247,Opet,Opet,,40.881089,29.2323267,OpenStreetMap Overpass
+node/4699018248,Petrol Ofisi,Petrol Ofisi,,40.891269,29.17731,OpenStreetMap Overpass
+node/4699018252,Opet Beylikdüzü,Opet,Opet Petrolcülük A.Ş.,40.99775,28.6052587,OpenStreetMap Overpass
+node/4699018254,Opet Esenler Fevzi Çakmak,Opet,Opet Petrolcülük A.Ş.,41.0490769,28.8768088,OpenStreetMap Overpass
+node/4699018255,Opet Bağcılar,Opet,Opet Petrolcülük A.Ş.,41.0477,28.859748,OpenStreetMap Overpass
+node/4699018264,Opet Beylikdüzü,Opet,Opet Petrolcülük A.Ş.,40.989872,28.668452,OpenStreetMap Overpass
+node/4699018265,Opet Bahçelievler,Opet,Opet Petrolcülük A.Ş.,41.0115506,28.828365,OpenStreetMap Overpass
+node/4699018282,Opet Kartal,Opet,Opet Petrolcülük A.Ş.,40.912108,29.191968,OpenStreetMap Overpass
+node/4699018284,Opet Esenyurt Güzelyurt,Opet,Opet Petrolcülük A.Ş.,41.006514,28.6676766,OpenStreetMap Overpass
+node/4699018420,Opet Sultangazi,Opet,Opet Petrolcülük A.Ş.,41.131936,28.826931,OpenStreetMap Overpass
+node/4699018428,Petrol Ofisi,Petrol Ofisi,Opet Petrolcülük A.Ş.,40.9067741,29.2527557,OpenStreetMap Overpass
+node/4699018459,Opet Çayırova,Opet,Opet Petrolcülük A.Ş.,40.8712321,29.3819844,OpenStreetMap Overpass
+node/4699018475,Mehmetçik Petrol,,,41.032443,28.883817,OpenStreetMap Overpass
+node/4699018488,Opet Maltepe,Opet,Opet Petrolcülük A.Ş.,40.9426842,29.1438714,OpenStreetMap Overpass
+node/4699018940,Opet İkitelli,Opet,Opet Petrolcülük A.Ş.,41.060352,28.78946,OpenStreetMap Overpass
+node/4699018970,Opet Çekmeköy,Opet,Opet Petrolcülük A.Ş.,41.109934,29.310702,OpenStreetMap Overpass
+node/4699018987,Opet Gebze,Opet,Opet Petrolcülük A.Ş.,40.804895,29.367133,OpenStreetMap Overpass
+node/4699019343,Opet Bağcılar Göztepe,Opet,Opet Petrolcülük A.Ş.,41.0601373,28.8410873,OpenStreetMap Overpass
+node/4699019354,Opet,Opet,Opet,41.048424,28.984989,OpenStreetMap Overpass
+node/4699019360,Opet Ümraniye,Opet,Opet Petrolcülük A.Ş.,41.0079553,29.2016636,OpenStreetMap Overpass
+node/4699019373,Opet,Opet,Opet Petrolcülük A.Ş.,40.8051175,29.4334382,OpenStreetMap Overpass
+node/4699019379,Opet Ataşehir,Opet,Opet Petrolcülük A.Ş.,40.982402,29.106104,OpenStreetMap Overpass
+node/4699019380,Opet Arnavutköy,Opet,Opet Petrolcülük A.Ş.,41.183317,28.597697,OpenStreetMap Overpass
+node/4699019947,Opet Pendik,Opet,Opet Petrolcülük A.Ş.,40.9015949,29.2470027,OpenStreetMap Overpass
+node/4699019952,Opet Esenyurt,Opet,Opet Petrolcülük A.Ş.,41.05038,28.62848,OpenStreetMap Overpass
+node/4699019968,Opet,Opet,Opet Petrolcülük A.Ş.,40.895696,29.2490574,OpenStreetMap Overpass
+node/4699019969,Opet Tuzla,Opet,Opet Petrolcülük A.Ş.,40.866335,29.3348073,OpenStreetMap Overpass
+node/4699020193,Opet Beykoz,Opet,Opet Petrolcülük A.Ş.,41.094793,29.090877,OpenStreetMap Overpass
+node/4699020197,Opet Tuzla,,Opet Petrolcülük A.Ş.,40.871794,29.371641,OpenStreetMap Overpass
+node/4699020285,Opet Tuzla,Opet,Opet Petrolcülük A.Ş.,40.8374032,29.2960611,OpenStreetMap Overpass
+node/4699022517,Opet Gebze,Opet,Opet Petrolcülük A.Ş.,40.807421,29.505688,OpenStreetMap Overpass
+node/4699022949,Opet Sultanbeyli,Opet,Opet Petrolcülük A.Ş.,40.9681282,29.2531294,OpenStreetMap Overpass
+node/4699022950,Opet Kartal,Opet,Opet Petrolcülük A.Ş.,40.9104,29.211534,OpenStreetMap Overpass
+node/4699022951,Opet Ümraniye,Opet,Opet Petrolcülük A.Ş.,40.98387,29.165959,OpenStreetMap Overpass
+node/4699022952,Opet Pendik,Opet,Opet Petrolcülük A.Ş.,40.859498,29.2815455,OpenStreetMap Overpass
+node/4699022953,Opet Ataşehir,Opet,Opet Petrolcülük A.Ş.,40.987731,29.143805,OpenStreetMap Overpass
+node/4699022955,Opet Bağcılar,Opet,Opet Petrolcülük A.Ş.,41.050131,28.812081,OpenStreetMap Overpass
+node/4699022956,Opet Topkapı,Opet,Opet Petrolcülük A.Ş.,41.019717,28.9088162,OpenStreetMap Overpass
+node/4699022960,Opet Islah Petrol,Opet,Opet Petrolcülük A.Ş.,41.205103,28.728262,OpenStreetMap Overpass
+node/4699022962,Opet,Opet,Opet Petrolcülük A.Ş.,41.031458,29.079681,OpenStreetMap Overpass
+node/4699022963,Opet Esenkent,Opet,Opet Petrolcülük A.Ş.,41.0554191,28.6719297,OpenStreetMap Overpass
+node/4699022965,Opet Tuzla,Opet,Opet Petrolcülük A.Ş.,40.883978,29.349287,OpenStreetMap Overpass
+node/4699022966,Shell Sabiha Gökçen,Shell,Shell Türkiye,40.9266858,29.3175598,OpenStreetMap Overpass
+node/4699022970,Opet Ümraniye,Opet,Opet Petrolcülük A.Ş.,41.008467,29.2159064,OpenStreetMap Overpass
+node/4699022971,Opet Büyükçekmece,Opet,Opet Petrolcülük A.Ş.,41.064034,28.621961,OpenStreetMap Overpass
+node/4699022975,Opet Pendik,Opet,Opet Petrolcülük A.Ş.,40.891373,29.233194,OpenStreetMap Overpass
+node/4699022981,Shell,Shell,Shell & Turcas,41.028799,28.790782,OpenStreetMap Overpass
+node/4699023892,Opet Sancaktepe,Opet,Opet Petrolcülük A.Ş.,41.007237,29.244293,OpenStreetMap Overpass
+node/4699023902,Opet Şile,Opet,Opet Petrolcülük A.Ş.,41.156979,29.628344,OpenStreetMap Overpass
+node/4699023905,Opet Sancaktepe,Opet,Opet Petrolcülük A.Ş.,40.9776,29.2206066,OpenStreetMap Overpass
+node/4699023914,Opet Sultanbeyli,Opet,Opet Petrolcülük A.Ş.,40.990082,29.263793,OpenStreetMap Overpass
+node/4699023919,Opet Esenyurt,Opet,Opet Petrolcülük A.Ş.,41.0179351,28.6462917,OpenStreetMap Overpass
+node/4699023920,Opet Büyükçekmece Kamiloba,Opet,Opet Petrolcülük A.Ş.,41.0353809,28.4457793,OpenStreetMap Overpass
+node/4699023925,Opet,Opet,Opet Petrolcülük A.Ş.,40.8865592,29.2418964,OpenStreetMap Overpass
+node/4699023930,Opet Üsküdar,Opet,Opet Petrolcülük A.Ş.,41.009864,29.012243,OpenStreetMap Overpass
+node/4699023934,Opet Pendik,Opet,Opet Petrolcülük A.Ş.,40.885945,29.286563,OpenStreetMap Overpass
+node/4699023938,Opet Bağcılar,Opet,Opet Petrolcülük A.Ş.,41.0275113,28.8574214,OpenStreetMap Overpass
+node/4718176989,Petrol Ofisi - Bulut Petrol,Petrol Ofisi,,40.9240928,29.151085,OpenStreetMap Overpass
+node/4718388547,Opet,Opet,,40.9377236,29.138014,OpenStreetMap Overpass
+node/4718388548,Shell,Shell,,40.9388796,29.1361722,OpenStreetMap Overpass
+node/4718388549,Total,TotalEnergies,,40.9397682,29.1332185,OpenStreetMap Overpass
+node/4718485057,,,,40.9202486,29.1476072,OpenStreetMap Overpass
+node/4718488092,Shell,Shell,,40.9111444,29.1953199,OpenStreetMap Overpass
+node/4718488093,,,,40.9089065,29.2027174,OpenStreetMap Overpass
+node/4718488098,Shell,Shell,,40.902499,29.2174843,OpenStreetMap Overpass
+node/4718488104,Total,TotalEnergies,,40.8943224,29.2284918,OpenStreetMap Overpass
+node/4718712547,Opet,Opet,,40.904372,29.2786929,OpenStreetMap Overpass
+node/4718712560,Total,TotalEnergies,,40.9079618,29.2933732,OpenStreetMap Overpass
+node/4718712575,Petrol Ofisi,Petrol Ofisi,,40.914902,29.303618,OpenStreetMap Overpass
+node/4719094364,,,,41.1327928,28.4703103,OpenStreetMap Overpass
+node/4720232022,Shell,Shell,,40.8940497,29.1988693,OpenStreetMap Overpass
+node/4720232036,,,,40.856096,29.2912778,OpenStreetMap Overpass
+node/4720232050,,,,40.824074,29.3519893,OpenStreetMap Overpass
+node/4720232051,,,,40.8171858,29.3625531,OpenStreetMap Overpass
+node/4724575294,TotalEnergies,TotalEnergies,Baltacıoğlu Petrol,41.0521545,29.2397197,OpenStreetMap Overpass
+node/4730251788,Shell,Shell,,41.0657131,29.0022542,OpenStreetMap Overpass
+node/4771613236,Opet,Opet,Opet,41.223032,28.4551489,OpenStreetMap Overpass
+node/4773473932,,,,40.8234864,29.4325764,OpenStreetMap Overpass
+node/4779866887,Opet,Opet,Opet,40.9264845,29.3156064,OpenStreetMap Overpass
+node/4779867627,,,,40.9650131,29.2720354,OpenStreetMap Overpass
+node/4779867647,Petrol Ofisi,Petrol Ofisi,Petrol Ofisi,40.9748828,29.2406807,OpenStreetMap Overpass
+node/4779890036,Shell,Shell,,40.899134,29.2686629,OpenStreetMap Overpass
+node/4807075794,Aygaz,Aygaz,,40.9816359,28.8908742,OpenStreetMap Overpass
+node/4826423021,,,,40.9144783,29.140873,OpenStreetMap Overpass
+node/4835446168,,,,40.9086602,29.358626,OpenStreetMap Overpass
+node/4838961896,Class,,,41.0071529,29.1882859,OpenStreetMap Overpass
+node/4845792383,BP,BP,,41.0414243,28.9796462,OpenStreetMap Overpass
+node/4845792420,Shell,Shell,,41.0405187,28.9673371,OpenStreetMap Overpass
+node/4845792521,Petro Ofisi,,,41.0416582,28.9664429,OpenStreetMap Overpass
+node/4845792522,Shell,Shell,,41.0381426,28.9680383,OpenStreetMap Overpass
+node/4845792523,,,,41.0384552,28.9734829,OpenStreetMap Overpass
+node/4845792524,,,,41.0388062,28.9726479,OpenStreetMap Overpass
+node/4845792525,Total Milangaz,TotalEnergies,,41.0398116,28.9775232,OpenStreetMap Overpass
+node/4846902293,Total,TotalEnergies,,41.0118047,28.8178457,OpenStreetMap Overpass
+node/4846902294,,,,41.0154366,28.8243738,OpenStreetMap Overpass
+node/4846902295,BP,BP,,41.0138923,28.8259069,OpenStreetMap Overpass
+node/4846902318,,,,41.0334125,28.8513955,OpenStreetMap Overpass
+node/4846915123,,,,41.0367739,28.852891,OpenStreetMap Overpass
+node/4846915132,,,,41.0420795,28.8510572,OpenStreetMap Overpass
+node/4846948582,Opet,Opet,,41.0127401,28.9006253,OpenStreetMap Overpass
+node/4855516912,Alpet,Alpet,,40.9936173,28.7095758,OpenStreetMap Overpass
+node/4855518349,Shell,Shell,,41.019443,28.6768201,OpenStreetMap Overpass
+node/4901564418,Shell,Shell,,41.0548455,28.8759011,OpenStreetMap Overpass
+node/4908865216,Opet,Opet,,41.002535,28.7874784,OpenStreetMap Overpass
+node/4908865534,Petrol Ofisi,Petrol Ofisi,,41.0345575,28.8333113,OpenStreetMap Overpass
+node/4908865535,,,,41.0399047,28.833644,OpenStreetMap Overpass
+node/4908865540,,,,41.045908,28.8298889,OpenStreetMap Overpass
+node/4908865541,BP,BP,,41.0567651,28.830478,OpenStreetMap Overpass
+node/4908865542,Kadoil,Kadoil,,41.058061,28.830917,OpenStreetMap Overpass
+node/4908865547,Opet,Opet,,41.0588357,28.8311038,OpenStreetMap Overpass
+node/4908865548,Shell,Shell,,41.059952,28.8314074,OpenStreetMap Overpass
+node/4908865549,Aytemiz,Aytemiz,,41.0599766,28.8321172,OpenStreetMap Overpass
+node/4908893564,BP,BP,,40.9950934,28.8950522,OpenStreetMap Overpass
+node/4924075282,,,,41.1859346,28.7392703,OpenStreetMap Overpass
+node/4926375965,Petrol Ofisi,Petrol Ofisi,,41.0679112,28.8110015,OpenStreetMap Overpass
+node/4952623932,Petrol Ofisi,Petrol Ofisi,,41.0612495,29.0012598,OpenStreetMap Overpass
+node/4956703288,,,,41.027129,28.8568809,OpenStreetMap Overpass
+node/4963093911,Türkiye Petrolleri,Türkiye Petrolleri,,41.0569121,28.951107,OpenStreetMap Overpass
+node/4963094240,Petrol Ofisi,Petrol Ofisi,,41.0852259,28.9781424,OpenStreetMap Overpass
+node/4965256366,Petrol Ofisi,Petrol Ofisi,,41.0099945,28.7944248,OpenStreetMap Overpass
+node/4965256582,,,,41.0293707,28.795751,OpenStreetMap Overpass
+node/4978760118,Petrol Ofisi,Petrol Ofisi,,40.9916607,28.8380623,OpenStreetMap Overpass
+node/4979178070,Opet,Opet,,40.9853444,28.785827,OpenStreetMap Overpass
+node/4986401524,Total,TotalEnergies,,41.0313261,28.8229913,OpenStreetMap Overpass
+node/4992027984,,,,41.033828,28.6801411,OpenStreetMap Overpass
+node/4992280808,Aytemiz,Aytemiz,,41.0598337,28.6251746,OpenStreetMap Overpass
+node/4992280809,,,,41.0408294,28.6259466,OpenStreetMap Overpass
+node/4992280814,Shell,Shell,,41.0370171,28.6247136,OpenStreetMap Overpass
+node/4992280815,,,,41.0270519,28.6266991,OpenStreetMap Overpass
+node/5008916861,BP Veliefendi,BP,BP,40.9881116,28.8842153,OpenStreetMap Overpass
+node/5022544104,,,,40.8504251,29.4068927,OpenStreetMap Overpass
+node/5022544109,,,,40.8569379,29.3977989,OpenStreetMap Overpass
+node/5022546223,,,,40.8622103,29.3885162,OpenStreetMap Overpass
+node/5022546228,,,,40.8634323,29.3909564,OpenStreetMap Overpass
+node/5022546235,,,,40.8826491,29.4158287,OpenStreetMap Overpass
+node/5022546236,,,,40.8855778,29.41396,OpenStreetMap Overpass
+node/5022546237,,,,40.903528,29.3945702,OpenStreetMap Overpass
+node/5022629078,Aytepe petrol,,,40.899745,29.3511643,OpenStreetMap Overpass
+node/5022629117,Shell,Shell,,40.8986284,29.2596818,OpenStreetMap Overpass
+node/5022629118,Türkiye Petrolleri,Türkiye Petrolleri,,40.8975594,29.2541411,OpenStreetMap Overpass
+node/5022629333,TotalEnergies,TotalEnergies,,40.8903882,29.2360378,OpenStreetMap Overpass
+node/5022636557,,,,40.896725,29.2226562,OpenStreetMap Overpass
+node/5022636564,,,,40.9134792,29.1515461,OpenStreetMap Overpass
+node/5022636573,,,,40.9164725,29.1466453,OpenStreetMap Overpass
+node/5022817283,Shell,Shell,,40.8751897,29.2543039,OpenStreetMap Overpass
+node/5026301608,,,,40.8006369,29.3879794,OpenStreetMap Overpass
+node/5026301768,,,,40.808046,29.3782627,OpenStreetMap Overpass
+node/5026301769,,,,40.8118859,29.3732478,OpenStreetMap Overpass
+node/5026301770,Petrol Ofisi,Petrol Ofisi,,40.8177071,29.3668386,OpenStreetMap Overpass
+node/5026301771,Aytemiz,Aytemiz,,40.8099221,29.3699652,OpenStreetMap Overpass
+node/5031730251,Petrol Ofisi,Petrol Ofisi,,41.0437708,29.2791974,OpenStreetMap Overpass
+node/5038130206,,,,41.0133611,28.7874587,OpenStreetMap Overpass
+node/5038131041,Shell,Shell,,40.9920052,28.8332033,OpenStreetMap Overpass
+node/5042266233,Total,TotalEnergies,,41.0321189,28.8002098,OpenStreetMap Overpass
+node/5048210016,Aytemiz Esenyurt Tabela,Aytemiz,,41.0216485,28.6875944,OpenStreetMap Overpass
+node/5048210226,,,,41.0134315,28.695405,OpenStreetMap Overpass
+node/5050081268,Shell,Shell,,40.9234235,29.151039,OpenStreetMap Overpass
+node/5052683541,Petrol Ofisi,Petrol Ofisi,,40.9504382,29.1627223,OpenStreetMap Overpass
+node/5052765899,,,,40.9667645,29.2156254,OpenStreetMap Overpass
+node/5052765904,,,,40.9664324,29.2164926,OpenStreetMap Overpass
+node/5052766527,,,,40.9695598,29.2201602,OpenStreetMap Overpass
+node/5052766554,,,,40.9806034,29.2202745,OpenStreetMap Overpass
+node/5052766565,Opet,Opet,,40.986969,29.2261047,OpenStreetMap Overpass
+node/5052833560,,,,40.9927015,29.2231235,OpenStreetMap Overpass
+node/5053328286,,,,41.0038954,29.2168851,OpenStreetMap Overpass
+node/5053408890,BP,BP,,41.0097306,29.210874,OpenStreetMap Overpass
+node/5053408891,Petrol Ofisi,Petrol Ofisi,,41.0103626,29.2103946,OpenStreetMap Overpass
+node/5053408898,,,,41.0125502,29.2073884,OpenStreetMap Overpass
+node/5053409386,,,,41.0136153,29.1912113,OpenStreetMap Overpass
+node/5053409725,Petrol Ofisi,Petrol Ofisi,,41.0165644,29.1777204,OpenStreetMap Overpass
+node/5053458360,BP,BP,,41.0181927,29.171658,OpenStreetMap Overpass
+node/5056240692,Shell,Shell,,40.9293369,29.1295388,OpenStreetMap Overpass
+node/5057611913,Petrol Ofisi Benzin İstasyonu,Petrol Ofisi,,41.0274482,28.8475262,OpenStreetMap Overpass
+node/5057611914,,,,41.0285322,28.846468,OpenStreetMap Overpass
+node/5057611934,,,,41.0417944,28.8497953,OpenStreetMap Overpass
+node/5057636755,,,,41.0540287,28.8335832,OpenStreetMap Overpass
+node/5057636838,,,,41.0131146,28.8468078,OpenStreetMap Overpass
+node/5057669024,Shell,Shell,,41.0098412,28.8310577,OpenStreetMap Overpass
+node/5057698664,Milangaz,,,41.0080791,28.7949318,OpenStreetMap Overpass
+node/5057699129,Shell,Shell,,41.0443621,28.7820226,OpenStreetMap Overpass
+node/5075961008,BP,BP,BP,41.0164313,28.9492848,OpenStreetMap Overpass
+node/5084178833,Shell,Shell,Shell,41.1674095,29.5420488,OpenStreetMap Overpass
+node/5098722412,Shell,Shell,Balmumcu,41.0614084,29.0110721,OpenStreetMap Overpass
+node/5105359497,,,,41.0283367,28.878253,OpenStreetMap Overpass
+node/5107277905,,,,41.0165067,29.0302075,OpenStreetMap Overpass
+node/5107315776,Aytemiz,Aytemiz,,41.0047684,29.0353401,OpenStreetMap Overpass
+node/5107401717,Petrol Ofisi,Petrol Ofisi,,40.98367,28.6439262,OpenStreetMap Overpass
+node/5107498125,Alpet,Alpet,,40.9893865,28.6188569,OpenStreetMap Overpass
+node/5108169540,,,,41.0306299,28.6625701,OpenStreetMap Overpass
+node/5108170071,,,,41.0316929,28.6575073,OpenStreetMap Overpass
+node/5108791878,Petrol Ofisi,Petrol Ofisi,,40.9887409,28.6676454,OpenStreetMap Overpass
+node/5110198325,,,,41.0478767,28.9685879,OpenStreetMap Overpass
+node/5112306755,,,,41.0423654,28.676434,OpenStreetMap Overpass
+node/5113465273,BP,BP,,41.0177752,28.9509568,OpenStreetMap Overpass
+node/5113486747,Total,TotalEnergies,,41.0286169,28.9369637,OpenStreetMap Overpass
+node/5113592145,BP,BP,,41.0070444,28.9368651,OpenStreetMap Overpass
+node/5113615724,Aytemiz,Aytemiz,,41.0297906,28.939052,OpenStreetMap Overpass
+node/5115935420,Opet,Opet,,41.0072114,28.9284307,OpenStreetMap Overpass
+node/5128217778,,,,41.0502394,28.859229,OpenStreetMap Overpass
+node/5128217779,,,,41.0522075,28.8581586,OpenStreetMap Overpass
+node/5128217780,,,,41.0540279,28.8544678,OpenStreetMap Overpass
+node/5132939928,,,,41.0568105,28.7280349,OpenStreetMap Overpass
+node/5147134748,Alpet,Alpet,,41.1366543,28.8170534,OpenStreetMap Overpass
+node/5149577694,Petrol Ofisi,Petrol Ofisi,,40.9717653,29.2485139,OpenStreetMap Overpass
+node/5151220720,,,,40.967791,29.2699856,OpenStreetMap Overpass
+node/5151430409,Total,TotalEnergies,,40.9697013,29.2659915,OpenStreetMap Overpass
+node/5158327351,,,,40.9406294,29.2852556,OpenStreetMap Overpass
+node/5208250439,Shell,Shell,Shell,40.9605351,29.2916233,OpenStreetMap Overpass
+node/5229773921,,,,40.8792929,29.2204988,OpenStreetMap Overpass
+node/5244129822,Lukoil,Lukoil,,40.9902534,29.1758465,OpenStreetMap Overpass
+node/5244796137,Opet Tahtakale,Opet,,41.0151886,28.968297,OpenStreetMap Overpass
+node/5244801830,Kumkapi TotalEnergies,TotalEnergies,TotalEnergies,41.0017886,28.9725372,OpenStreetMap Overpass
+node/5253548270,Shell benzinci,Shell,shell,40.9939415,28.8945802,OpenStreetMap Overpass
+node/5254108623,Shell,Shell,,41.176591,28.8902738,OpenStreetMap Overpass
+node/5272471198,Shell,Shell,,40.9573939,29.0976751,OpenStreetMap Overpass
+node/5281796616,Class Petrol,,,40.8843453,29.2359312,OpenStreetMap Overpass
+node/5282028235,,,,40.9382947,29.1408662,OpenStreetMap Overpass
+node/5283303556,Petrol Ofisi,Petrol Ofisi,,40.981511,29.0686312,OpenStreetMap Overpass
+node/5283668028,,,,41.027751,28.9084234,OpenStreetMap Overpass
+node/5290533598,Shell,Shell,,41.007132,29.1903445,OpenStreetMap Overpass
+node/5291682316,Petrol Ofisi Arasena,Petrol Ofisi,Arasena Enerji Petrol A.Ş.,40.8908871,29.2632647,OpenStreetMap Overpass
+node/5292281495,Total,TotalEnergies,,40.890674,29.2342555,OpenStreetMap Overpass
+node/5295378910,,,,40.9168959,29.195766,OpenStreetMap Overpass
+node/5316011367,BP,BP,,40.8875592,29.1917101,OpenStreetMap Overpass
+node/5316391220,Uspet,,,40.9905592,29.0767874,OpenStreetMap Overpass
+node/5316393025,Petrol Ofisi,Petrol Ofisi,,40.9899507,29.0820974,OpenStreetMap Overpass
+node/5316393026,,,,40.9980508,29.0915291,OpenStreetMap Overpass
+node/5329319844,Petrol Ofisi,Petrol Ofisi,,40.9424888,29.3020362,OpenStreetMap Overpass
+node/5329320553,P MAX,,,40.9727059,29.2622919,OpenStreetMap Overpass
+node/5329338009,Aytemiz,Aytemiz,,40.9643618,29.2742466,OpenStreetMap Overpass
+node/5336994052,,,,41.0751507,28.9696221,OpenStreetMap Overpass
+node/5336994069,,,,41.0811679,28.9865705,OpenStreetMap Overpass
+node/5344919571,Lukoil,Lukoil,,40.9422553,29.30125,OpenStreetMap Overpass
+node/5362917722,Opet Gültepe,Opet,,41.0231146,29.1079509,OpenStreetMap Overpass
+node/5362917723,Opet imes 1,Opet,,41.0020489,29.1636539,OpenStreetMap Overpass
+node/5362920522,Besa petlıine,,,40.8554842,29.3678858,OpenStreetMap Overpass
+node/5370265112,Shell,Shell,,41.0080712,28.8970539,OpenStreetMap Overpass
+node/5375211991,,,,41.0245829,28.8064335,OpenStreetMap Overpass
+node/5375237948,Shell,Shell,,41.044584,28.8207294,OpenStreetMap Overpass
+node/5375237950,Aytemiz,Aytemiz,,41.0448318,28.8169805,OpenStreetMap Overpass
+node/5385351123,imes petrol 089,,,41.0018496,29.1643045,OpenStreetMap Overpass
+node/5385351124,Opet,Opet,,40.971905,29.2491636,OpenStreetMap Overpass
+node/5385354921,Opet,Opet,,40.9458545,29.1274403,OpenStreetMap Overpass
+node/5393139681,Opet,Opet,Opet,41.0642078,28.9822451,OpenStreetMap Overpass
+node/5393139853,,,,41.0855779,28.9685793,OpenStreetMap Overpass
+node/5411633625,,,,41.1732022,29.054004,OpenStreetMap Overpass
+node/5418808042,Moil,Moil,,40.9909695,28.8708226,OpenStreetMap Overpass
+node/5418842117,Total,TotalEnergies,,41.0173023,28.8904511,OpenStreetMap Overpass
+node/5437546261,,,,41.0154297,29.2437366,OpenStreetMap Overpass
+node/5437546316,Shell,Shell,,41.0269115,29.2397661,OpenStreetMap Overpass
+node/5437672597,Petrol Ofisi,Petrol Ofisi,,41.0396942,29.2345379,OpenStreetMap Overpass
+node/5455133252,Total,TotalEnergies,,41.1528607,28.7875335,OpenStreetMap Overpass
+node/5462596529,BP,BP,,41.0449926,28.8230339,OpenStreetMap Overpass
+node/5462640316,BP,BP,,41.0079027,29.1808357,OpenStreetMap Overpass
+node/5479470554,Petrol Ofisi,Petrol Ofisi,,41.0227995,29.1096406,OpenStreetMap Overpass
+node/5479470622,TotalEnergies,TotalEnergies,,41.0221955,29.1126822,OpenStreetMap Overpass
+node/5482975722,PO,,,41.0437082,28.9479541,OpenStreetMap Overpass
+node/5542883356,Onex,,,40.9643673,29.281366,OpenStreetMap Overpass
+node/5542883408,Opet,Opet,,40.9711613,29.2575172,OpenStreetMap Overpass
+node/5542883570,Total,TotalEnergies,,40.9694406,29.2571926,OpenStreetMap Overpass
+node/5542883589,Bulvar girişi,,,40.9419343,29.30161,OpenStreetMap Overpass
+node/5542883633,Akşamsettin,,,40.948057,29.2996747,OpenStreetMap Overpass
+node/5542883700,Shell,Shell,,40.9825628,29.2667627,OpenStreetMap Overpass
+node/5542886345,total Emkar petrol sanayi karsì,TotalEnergies,,40.951119,29.2976145,OpenStreetMap Overpass
+node/5542889147,TP - Türkiye Petrolleri,Türkiye Petrolleri,,40.9638346,29.2844653,OpenStreetMap Overpass
+node/5543597120,,,,40.8594511,29.3772812,OpenStreetMap Overpass
+node/5543680264,,,,40.8093883,29.4603929,OpenStreetMap Overpass
+node/5610931982,,,,41.1721549,28.5026895,OpenStreetMap Overpass
+node/5613678003,,,,41.1510071,28.4527997,OpenStreetMap Overpass
+node/5613729478,,,,41.2512907,28.4924105,OpenStreetMap Overpass
+node/5616649534,BP,BP,,40.9814332,29.0811831,OpenStreetMap Overpass
+node/5667618755,Starpet,,,41.020533,28.9066419,OpenStreetMap Overpass
+node/5667661771,bp taşıtmatık,BP,,40.9821539,28.8937035,OpenStreetMap Overpass
+node/5667673366,Petrol Ofisi Bağcılar 100. Yıl,Petrol Ofisi,,41.0562669,28.8526468,OpenStreetMap Overpass
+node/5667687574,Shell,Shell,,41.0285248,28.8464788,OpenStreetMap Overpass
+node/5667689774,Opet,Opet,,41.032617,28.8341154,OpenStreetMap Overpass
+node/5667747971,Total Bağcılar-2,TotalEnergies,,41.0283367,28.856824,OpenStreetMap Overpass
+node/5686793717,,,,41.0795924,29.1425113,OpenStreetMap Overpass
+node/5686793935,,,,41.1216431,29.1462166,OpenStreetMap Overpass
+node/5686940428,,,,41.1365841,28.6230491,OpenStreetMap Overpass
+node/5686969979,BP-Artı Kurumsal Kart Ve Petrol,BP,Artı Kurumsal Kart Ve Petrol,41.1234795,28.6248907,OpenStreetMap Overpass
+node/5686970001,Shell,Shell,Shell,41.1525006,28.6170195,OpenStreetMap Overpass
+node/5686970042,,,,41.1173181,28.6282691,OpenStreetMap Overpass
+node/5686970066,TotalEnergies,TotalEnergies,,41.1174784,28.629389,OpenStreetMap Overpass
+node/5707236740,,,,41.0222354,28.7011184,OpenStreetMap Overpass
+node/5707360358,BP,BP,,41.0250023,28.6592596,OpenStreetMap Overpass
+node/5707508888,BP,BP,,41.0047978,28.8923178,OpenStreetMap Overpass
+node/5707508889,,,,41.0049447,28.8920028,OpenStreetMap Overpass
+node/5708413680,Türkiye Petrolleri,Türkiye Petrolleri,,41.0834384,28.9487993,OpenStreetMap Overpass
+node/5708543081,,,,41.1972545,28.4455672,OpenStreetMap Overpass
+node/5909868367,,,,41.0298186,28.8635582,OpenStreetMap Overpass
+node/5940640333,,,,40.96645,29.103328,OpenStreetMap Overpass
+node/5940682543,BP,BP,,40.9670745,29.104211,OpenStreetMap Overpass
+node/5948284506,Shell,Shell,,40.8811717,29.3451289,OpenStreetMap Overpass
+node/5950843462,Aytemiz,Aytemiz,,40.8198134,29.4150015,OpenStreetMap Overpass
+node/5950843469,,,,40.8248611,29.4138981,OpenStreetMap Overpass
+node/5950843515,Shell,Shell,,40.8145536,29.4174109,OpenStreetMap Overpass
+node/5950859552,,,,40.8132967,29.4388288,OpenStreetMap Overpass
+node/5950859562,,,,40.8108797,29.4553802,OpenStreetMap Overpass
+node/5954059533,Petrol Ofisi,Petrol Ofisi,,41.0225451,29.0753284,OpenStreetMap Overpass
+node/5956671712,,,,41.1245795,29.4808701,OpenStreetMap Overpass
+node/5959790503,Aytemiz,Aytemiz,Aytemiz,41.1123996,29.0407526,OpenStreetMap Overpass
+node/5968860779,,,,40.8390872,29.2954604,OpenStreetMap Overpass
+node/5992890598,,,,41.0336295,28.8074676,OpenStreetMap Overpass
+node/5995243483,,,,41.1582212,28.6135003,OpenStreetMap Overpass
+node/6000017192,Petrol Ofisi,Petrol Ofisi,,40.9279097,29.1329757,OpenStreetMap Overpass
+node/6000889519,Shell,Shell,,41.1177047,29.0644015,OpenStreetMap Overpass
+node/6012596061,Shell,Shell,,41.0322908,29.1736573,OpenStreetMap Overpass
+node/6029343474,İloil,,,41.1813769,28.7448117,OpenStreetMap Overpass
+node/6029343475,Petrol Ofisi,Petrol Ofisi,,41.1819955,28.7429251,OpenStreetMap Overpass
+node/6031330355,,,,40.8773356,29.420393,OpenStreetMap Overpass
+node/6039017188,,,,41.0598711,28.6992785,OpenStreetMap Overpass
+node/6068995091,,,,41.0972265,28.9046329,OpenStreetMap Overpass
+node/6146383487,BP,BP,Benzin İstasyonu,41.078851,29.0029586,OpenStreetMap Overpass
+node/6149743007,,,,40.8033316,29.527646,OpenStreetMap Overpass
+node/6318139757,Total,TotalEnergies,,40.9105568,29.2161373,OpenStreetMap Overpass
+node/6332664122,Alpet Ayar Petrol,Alpet,,41.0265141,28.4656456,OpenStreetMap Overpass
+node/6380773887,BP,BP,,41.0248356,29.2256803,OpenStreetMap Overpass
+node/6390459922,Shell,Shell,,40.8999268,29.2199557,OpenStreetMap Overpass
+node/6437087001,Total,TotalEnergies,,41.0578137,28.7127623,OpenStreetMap Overpass
+node/6507504085,133 imes petrol,,,40.9567108,29.2138795,OpenStreetMap Overpass
+node/6512531400,BP,BP,,40.9894463,29.0421754,OpenStreetMap Overpass
+node/6518087485,Türkiye Petrolleri,Türkiye Petrolleri,,40.886222,29.236328,OpenStreetMap Overpass
+node/6528483391,Opet,Opet,Opet Petrolcülük A.Ş.,41.1511698,28.7877841,OpenStreetMap Overpass
+node/6577151296,Opet,Opet,Opet Petrolcülük A.Ş.,40.9110485,29.1818113,OpenStreetMap Overpass
+node/6594719428,Petrol Ofisi,Petrol Ofisi,,41.1039881,28.8619681,OpenStreetMap Overpass
+node/6594719434,Petrol Ofisi,Petrol Ofisi,,41.0948562,28.8632641,OpenStreetMap Overpass
+node/6594719435,Petrol Ofisi,Petrol Ofisi,,41.0917254,28.8645145,OpenStreetMap Overpass
+node/6595207917,Shell,Shell,,40.8652979,29.379763,OpenStreetMap Overpass
+node/6597112256,,,,41.0955329,28.7908182,OpenStreetMap Overpass
+node/6696452665,,,,41.0143136,28.8321043,OpenStreetMap Overpass
+node/6720423076,Aytemiz,Aytemiz,Aytemiz,41.236291,28.9051683,OpenStreetMap Overpass
+node/6805146202,Total,TotalEnergies,,41.0145892,29.0756042,OpenStreetMap Overpass
+node/6805337406,,,,40.9894307,29.1953675,OpenStreetMap Overpass
+node/6842721097,,,,41.0716227,28.9798973,OpenStreetMap Overpass
+node/6854402223,Petrol Ofisi,Petrol Ofisi,,41.0319161,28.9058591,OpenStreetMap Overpass
+node/6854402224,Starpet,,,41.0319758,28.9055397,OpenStreetMap Overpass
+node/6854402244,Petrol Ofisi,Petrol Ofisi,,41.0283233,28.9168122,OpenStreetMap Overpass
+node/6862518820,Opet,Opet,,41.0078954,29.1928866,OpenStreetMap Overpass
+node/6863696019,Petrol Ofisi,Petrol Ofisi,,40.9274927,29.3469241,OpenStreetMap Overpass
+node/6973615085,,,,40.9288418,29.4395912,OpenStreetMap Overpass
+node/7046396309,Opet,Opet,Yamaç Petrol,41.0144577,29.1904016,OpenStreetMap Overpass
+node/7046396315,Opet Ümraniye,Opet,Opet Petrolcülük A.Ş.,40.9936151,29.1889906,OpenStreetMap Overpass
+node/7125660786,Opet,Opet,,41.026754,29.2427586,OpenStreetMap Overpass
+node/7145762135,Petrol Ofisi,Petrol Ofisi,,41.018544,29.0845768,OpenStreetMap Overpass
+node/7167510127,Petrol Ofisi,Petrol Ofisi,,41.0603468,28.6987055,OpenStreetMap Overpass
+node/7370312886,clas petrol,,,40.8146571,29.374001,OpenStreetMap Overpass
+node/7498451381,Energy,Energy,Energy,40.993182,28.6303116,OpenStreetMap Overpass
+node/7501444291,Opet Beylikdüzü,Opet,Opet Petrolcülük A.Ş.,41.0048016,28.6376236,OpenStreetMap Overpass
+node/7506071047,TotalEnergies,TotalEnergies,,40.9894325,28.6573616,OpenStreetMap Overpass
+node/7518367166,Teco,,,41.0306413,28.6825978,OpenStreetMap Overpass
+node/7523601250,,,,41.0120959,28.6818702,OpenStreetMap Overpass
+node/7523622408,Shell,Shell,,40.9775719,29.0971615,OpenStreetMap Overpass
+node/7562999678,,,,41.0275668,29.026192,OpenStreetMap Overpass
+node/7621910819,Petrol Ofisi,Petrol Ofisi,,40.9393933,29.3172635,OpenStreetMap Overpass
+node/7631483620,Opet,Opet,Opet Petrolcülük A.Ş.,41.0489227,29.0545563,OpenStreetMap Overpass
+node/7656054264,Shell,Shell,,41.0015329,29.0780713,OpenStreetMap Overpass
+node/7668596055,,,,40.9816004,29.2215046,OpenStreetMap Overpass
+node/7740567851,Best,Best,,40.9176914,29.1440382,OpenStreetMap Overpass
+node/7744427285,,,,40.9364775,29.6629014,OpenStreetMap Overpass
+node/7865342719,,,,41.0863729,29.1364115,OpenStreetMap Overpass
+node/8374525367,Opet Gebze,Opet,Opet Petrolcülük A.Ş.,40.8197439,29.4445917,OpenStreetMap Overpass
+node/8403439423,Moil Milan Petrol,Moil,Milan Petrol,41.2236389,28.4551746,OpenStreetMap Overpass
+node/8403505436,Petrol Ofisi,Petrol Ofisi,,41.1045077,28.4248468,OpenStreetMap Overpass
+node/8520542077,Shell,Shell,,40.8806693,29.255162,OpenStreetMap Overpass
+node/8585585831,Türkiye Petrolleri,Türkiye Petrolleri,,40.8731683,29.2652568,OpenStreetMap Overpass
+node/8585585832,Türkiye Petrolleri,Türkiye Petrolleri,,40.8736907,29.26607,OpenStreetMap Overpass
+node/8739742042,TotalEnergies,TotalEnergies,,41.0243095,28.6235887,OpenStreetMap Overpass
+node/8739798441,Shell Gürpınar Kavşak,Shell,,41.01835,28.632575,OpenStreetMap Overpass
+node/8745873184,Class,Class,,41.0023361,28.8860995,OpenStreetMap Overpass
+node/8785545916,BP Büyükçekmece Kamiloba,BP,,41.0378019,28.4372572,OpenStreetMap Overpass
+node/8785545975,Petrol Ofisi Büyükçekmece Kamiloba,Petrol Ofisi,,41.0402471,28.4284738,OpenStreetMap Overpass
+node/8852452641,Opet Tuzla,Opet,Opet Petrolcülük A.Ş.,40.931674,29.3389549,OpenStreetMap Overpass
+node/8857110730,Aytemiz Bahçelievler Çobançeşme,Aytemiz,,41.0009743,28.8226446,OpenStreetMap Overpass
+node/8903542274,,,,41.1791462,28.703004,OpenStreetMap Overpass
+node/8990639673,Aytemiz Gaziosmanpaşa Hürriyet,Aytemiz,Küçükköy Petrol,41.0704898,28.902302,OpenStreetMap Overpass
+node/9107841647,Opet Bağcılar 15 Temmuz,Opet,,41.0274062,28.8125769,OpenStreetMap Overpass
+node/9128770763,Petrol Ofisi,Petrol Ofisi,,41.0178124,28.4830719,OpenStreetMap Overpass
+node/9164767329,Shell,Shell,,40.871259,29.3314775,OpenStreetMap Overpass
+node/9164830220,Aygaz,Aygaz,Aygaz,40.9950191,28.7052039,OpenStreetMap Overpass
+node/9169578683,,,,41.0425372,28.8466338,OpenStreetMap Overpass
+node/9177606423,BP Büyükçekmece Yakuplu,BP,,41.0143393,28.6469932,OpenStreetMap Overpass
+node/9272881830,Opet Çayırova,Opet,Opet Petrolcülük A.Ş.,40.8603752,29.3863957,OpenStreetMap Overpass
+node/9272881832,Total Tuzla,TotalEnergies,Opet Petrolcülük A.Ş.,40.9183976,29.3514665,OpenStreetMap Overpass
+node/9282741027,Shell,Shell,,40.844676,29.3058965,OpenStreetMap Overpass
+node/9282741028,Shell,Shell,,40.8760027,29.2630048,OpenStreetMap Overpass
+node/9282741029,,,,40.8800399,29.2594429,OpenStreetMap Overpass
+node/9283105742,Aytemiz Büyükçekmece Güzelce,Aytemiz,,41.0095046,28.523367,OpenStreetMap Overpass
+node/9283105743,Total Gas Station,TotalEnergies,,41.0103957,28.5316044,OpenStreetMap Overpass
+node/9283105744,Aygaz,Aygaz,,41.0126432,28.53724,OpenStreetMap Overpass
+node/9283105745,Opet Büyükçekmece Ekinoba,Opet,Opet Petrolcülük A.Ş.,41.0125326,28.5413531,OpenStreetMap Overpass
+node/9283105746,Shell Sinanoba,Shell,,41.0145481,28.5461599,OpenStreetMap Overpass
+node/9283105747,Lukoil Akaryakıt İstasyonu,Lukoil,,41.013994,28.5473981,OpenStreetMap Overpass
+node/9283105748,Total Mimarsinan,TotalEnergies,,41.0170614,28.557399,OpenStreetMap Overpass
+node/9283105749,Shell Mimarsinan,Shell,,41.0172978,28.5622313,OpenStreetMap Overpass
+node/9283105750,Petrol Ofisi,Petrol Ofisi,Batular Petrol,41.0185701,28.5639545,OpenStreetMap Overpass
+node/9283105751,Petrol Ofisi,Petrol Ofisi,,41.0196623,28.5636778,OpenStreetMap Overpass
+node/9283105752,Opet Büyükçekmece Mimar Sinan,Opet,,41.02096,28.5631501,OpenStreetMap Overpass
+node/9283105753,Shell Büyükçekmece Ulus,Shell,,41.0258567,28.5565171,OpenStreetMap Overpass
+node/9283133180,,,,40.8130443,29.3684457,OpenStreetMap Overpass
+node/9283133181,Bpet Kübra PEtrol,bpet,,40.814681,29.3721052,OpenStreetMap Overpass
+node/9283133182,seng petrol petline,,,40.8225544,29.4151031,OpenStreetMap Overpass
+node/9283133183,Opet Çayırova,Opet,Opet Petrolcülük A.Ş.,40.8365985,29.4060533,OpenStreetMap Overpass
+node/9283133184,Opet Tuzla,Opet,Opet Petrolcülük A.Ş.,40.8194752,29.3062437,OpenStreetMap Overpass
+node/9283139107,BP,BP,,40.9358432,29.3611401,OpenStreetMap Overpass
+node/9283139109,Shell,Shell,,40.9405618,29.3698716,OpenStreetMap Overpass
+node/9283139110,Petrol Ofisi,Petrol Ofisi,,40.9426442,29.373383,OpenStreetMap Overpass
+node/9283139111,Opet,Opet,,40.9283857,29.4360139,OpenStreetMap Overpass
+node/9283139116,Lukoil,Lukoil,,40.9445864,29.3880242,OpenStreetMap Overpass
+node/9283139717,TotalEnergies TSK Mehmetcik Vakfı,TotalEnergies,Güzel Enerji,40.9350119,29.3288072,OpenStreetMap Overpass
+node/9283180208,BP,BP,,41.1278316,29.0961848,OpenStreetMap Overpass
+node/9283180209,Shell,Shell,,41.1305879,29.0935792,OpenStreetMap Overpass
+node/9283195049,Total,TotalEnergies,,41.0221984,29.0429366,OpenStreetMap Overpass
+node/9283195050,Total,TotalEnergies,total,41.0230199,29.0430475,OpenStreetMap Overpass
+node/9283195051,Opet Üsküdar,Opet,Opet Petrolcülük A.Ş.,41.0237064,29.041962,OpenStreetMap Overpass
+node/9283195052,Opet,Opet,,41.0241529,29.0548718,OpenStreetMap Overpass
+node/9283195053,Total,TotalEnergies,,41.023903,29.0815897,OpenStreetMap Overpass
+node/9283216811,Total,TotalEnergies,,41.0029931,29.0362236,OpenStreetMap Overpass
+node/9283216812,Shell,Shell,,41.0031836,29.0341387,OpenStreetMap Overpass
+node/9283216813,Shell,Shell,,41.0068267,29.0251505,OpenStreetMap Overpass
+node/9283226128,Total,TotalEnergies,,41.1692589,28.9050021,OpenStreetMap Overpass
+node/9283238437,,,,41.1558455,29.6043713,OpenStreetMap Overpass
+node/9283238443,TotalEnergies,TotalEnergies,,41.0876776,29.3476389,OpenStreetMap Overpass
+node/9283238444,,,,41.0880657,29.3451445,OpenStreetMap Overpass
+node/9293353315,,,,41.1908234,29.4472343,OpenStreetMap Overpass
+node/9293393454,BPet,Bpet,,41.1679444,29.5613628,OpenStreetMap Overpass
+node/9293419410,BP,BP,,41.1914264,29.0368874,OpenStreetMap Overpass
+node/9299860551,Petrol Ofisi,Petrol Ofisi,,41.0201144,28.5593928,OpenStreetMap Overpass
+node/9299860552,Opet Büyükçekmece Fatih,Opet,Opet Petrolcülük A.Ş.,41.0217351,28.5840546,OpenStreetMap Overpass
+node/9299860553,Kadoil,Kadoil,Lipetgaz,41.0231782,28.6188261,OpenStreetMap Overpass
+node/9299860557,BP,BP,,41.016821,28.6392375,OpenStreetMap Overpass
+node/9299860560,Türk Petrol,,,41.0001016,28.6950441,OpenStreetMap Overpass
+node/9299860561,Shell Avcılar,Shell,,40.9882554,28.7187248,OpenStreetMap Overpass
+node/9299860562,Petrol Ofisi,Petrol Ofisi,,40.990692,28.7184232,OpenStreetMap Overpass
+node/9299860563,Shell Küçükçekmece,Shell,,40.9868352,28.7699299,OpenStreetMap Overpass
+node/9299860564,Petrol Ofisi Küçükçekmece Cennet,Petrol Ofisi,,40.9859369,28.7839188,OpenStreetMap Overpass
+node/9299860565,BP Küçükçekmece Gültepe,BP,,40.9885513,28.7909023,OpenStreetMap Overpass
+node/9299860568,Shell Atatürk Havalimanı,Shell,,40.9863951,28.8196684,OpenStreetMap Overpass
+node/9299860569,Opet Ceynak Lojistik,Opet,Ceynak Lojistik,41.0164732,28.8116205,OpenStreetMap Overpass
+node/9299860570,BP Bağcılar Kirazlı Bağlar,BP,,41.0260494,28.8141226,OpenStreetMap Overpass
+node/9299860571,Shell Halkalı,Shell,,41.0432544,28.8030705,OpenStreetMap Overpass
+node/9299860572,BP,BP,,41.0366263,28.7971332,OpenStreetMap Overpass
+node/9299860573,Shell,Shell,,41.0336744,28.7681455,OpenStreetMap Overpass
+node/9299860574,,,,41.0426641,28.7563563,OpenStreetMap Overpass
+node/9300226842,Petrol Ofisi,Petrol Ofisi,,40.9194604,29.2866564,OpenStreetMap Overpass
+node/9300226844,Energy,,Energy,40.8942418,29.2593302,OpenStreetMap Overpass
+node/9300286790,Shell,Shell,,41.0716662,28.6938781,OpenStreetMap Overpass
+node/9300286799,BP Esenyurt Akçaburgaz,BP,,41.0672924,28.6494303,OpenStreetMap Overpass
+node/9300325252,Shell,Shell,,40.9810361,29.1311204,OpenStreetMap Overpass
+node/9300325253,BP Kayışdağı,BP,,40.9793625,29.1271977,OpenStreetMap Overpass
+node/9300325266,Türkiye Petrolleri,Türkiye Petrolleri,,40.9790501,29.1046565,OpenStreetMap Overpass
+node/9300325267,Shell,Shell,,40.9853132,29.107179,OpenStreetMap Overpass
+node/9300325268,Petrol Ofisi,Petrol Ofisi,,40.9859873,29.108754,OpenStreetMap Overpass
+node/9308433308,Petrol Ofisi,Petrol Ofisi,,40.8895343,29.2067711,OpenStreetMap Overpass
+node/9308461062,Aytemiz,Aytemiz,,40.8970717,29.2257208,OpenStreetMap Overpass
+node/9308541967,Petrol Ofisi,Petrol Ofisi,,40.9478483,29.1064953,OpenStreetMap Overpass
+node/9308547296,Petrol Ofisi,Petrol Ofisi,,40.9806612,29.0418373,OpenStreetMap Overpass
+node/9308547309,Opet Kızıltoprak,Opet,Opet Petrolcülük A.Ş.,40.9839354,29.0400899,OpenStreetMap Overpass
+node/9311013308,Opet Sultangazi,Opet,Opet Petrolcülük A.Ş.,41.1088426,28.8596474,OpenStreetMap Overpass
+node/9311013309,Shell,Shell,,41.093562,28.8634524,OpenStreetMap Overpass
+node/9311065220,Shell,Shell,Shell,41.098707,28.9003775,OpenStreetMap Overpass
+node/9311065240,Kadoil,Kadoil,,41.0806741,28.9072787,OpenStreetMap Overpass
+node/9311068418,Petrol Ofisi,Petrol Ofisi,,41.104532,28.8042785,OpenStreetMap Overpass
+node/9311073254,Shell,Shell,,41.2345213,28.8880194,OpenStreetMap Overpass
+node/9311075163,,,,41.1775159,28.7479725,OpenStreetMap Overpass
+node/9311088544,Petrol Ofisi,Petrol Ofisi,Petrol Ofisi,41.1568163,28.6723328,OpenStreetMap Overpass
+node/9311961842,Opet Ümraniye,Opet,Opet Petrolcülük A.Ş.,41.0141227,29.1637819,OpenStreetMap Overpass
+node/9311961843,,,,41.0157593,29.1531253,OpenStreetMap Overpass
+node/9311961844,,,,41.0160928,29.1503703,OpenStreetMap Overpass
+node/9311961845,Opet Ortaş,Opet,,41.01646,29.1460319,OpenStreetMap Overpass
+node/9311961846,Erk Petrol,Petrol Ofisi,,41.0055207,29.1463068,OpenStreetMap Overpass
+node/9311961847,Petrol Ofisi,Petrol Ofisi,,41.0132643,29.1072865,OpenStreetMap Overpass
+node/9312145700,Petrol Ofisi,Petrol Ofisi,,40.8967672,29.203426,OpenStreetMap Overpass
+node/9312156123,,,,41.1661931,29.056493,OpenStreetMap Overpass
+node/9312162023,,,,40.9585228,29.2148183,OpenStreetMap Overpass
+node/9312167478,BP,BP,,41.0033205,28.8663906,OpenStreetMap Overpass
+node/9312167479,Shell,Shell,,41.0069657,28.8713178,OpenStreetMap Overpass
+node/9312167481,Petrol Ofisi Bahçelievler Mehmet Akif,Petrol Ofisi,Kavuklar Petrol,41.002278,28.8829966,OpenStreetMap Overpass
+node/9312170590,Petrol Ofisi,Petrol Ofisi,Alıcı Petrol,41.0795466,28.62606,OpenStreetMap Overpass
+node/9312170591,Shell,Shell,,41.079205,28.6248376,OpenStreetMap Overpass
+node/9312187482,Shell Florya,Shell,,40.9725654,28.7899492,OpenStreetMap Overpass
+node/9312187483,Opet Küçükçekmece Gültepe,Opet,,40.9929402,28.793514,OpenStreetMap Overpass
+node/9312199669,Petrol Ofisi Zeytinburnu Maltepe,Petrol Ofisi,,41.0151848,28.9078086,OpenStreetMap Overpass
+node/9312199670,Opet Zeytinburnu Merkezefendi,Opet,,41.0162795,28.9116473,OpenStreetMap Overpass
+node/9312199671,Shell,Shell,Cem Otomotiv,41.0167833,28.9128377,OpenStreetMap Overpass
+node/9312859986,Total Atakent,TotalEnergies,Güzel Enerji Akaryakıt Anonim Şirketi,41.0612672,28.7767168,OpenStreetMap Overpass
+node/9312867385,Opet,Opet,,41.0996573,28.7666233,OpenStreetMap Overpass
+node/9312871375,Shell Ataköy Sahil,Shell,,40.9743342,28.8740989,OpenStreetMap Overpass
+node/9312874511,Shell,Shell,,41.0538729,28.8664719,OpenStreetMap Overpass
+node/9312874512,Aytemiz,Aytemiz,,41.0546792,28.8639486,OpenStreetMap Overpass
+node/9312905236,Shell,Shell,,41.0841918,28.9783031,OpenStreetMap Overpass
+node/9312905237,Opet Kağıthane,Opet,Opet Petrolcülük A.Ş.,41.0889002,28.9849858,OpenStreetMap Overpass
+node/9312905238,Shell,Shell,,41.0937938,28.9927287,OpenStreetMap Overpass
+node/9312906913,Opet Beyoğlu,Opet,Opet Petrolcülük A.Ş.,41.0383282,28.9567532,OpenStreetMap Overpass
+node/9312906914,Aytemiz,Aytemiz,,41.0585181,28.9657014,OpenStreetMap Overpass
+node/9312925430,Total,TotalEnergies,,41.0449576,29.1771714,OpenStreetMap Overpass
+node/9398672062,Opet,Opet,,41.069683,28.8251047,OpenStreetMap Overpass
+node/9548958715,BP Avcılar,BP,,40.9954061,28.7046971,OpenStreetMap Overpass
+node/9548958716,Opet,Opet,,41.0005436,28.6914835,OpenStreetMap Overpass
+node/9548982817,Shell,Shell,,41.0093769,28.7014502,OpenStreetMap Overpass
+node/9548982818,Total,TotalEnergies,,41.01155,28.698086,OpenStreetMap Overpass
+node/9549151422,Petrol Ofisi,Petrol Ofisi,Minapet Petrol,41.0374652,28.9257148,OpenStreetMap Overpass
+node/9549153211,Shell,Shell,,41.0395929,28.9113175,OpenStreetMap Overpass
+node/9549572617,Petrol Ofisi,Petrol Ofisi,,41.071343,28.8679143,OpenStreetMap Overpass
+node/9549600017,Petrol Ofisi,Petrol Ofisi,Mesah Petrol,41.0870737,28.8689191,OpenStreetMap Overpass
+node/9550991677,Opet,Opet,Emre Petrol,41.0367809,28.8872845,OpenStreetMap Overpass
+node/9551014699,Opet,Opet,Öztaş Petrol,41.0456765,28.9313796,OpenStreetMap Overpass
+node/9551045187,BP,BP,,41.0562456,28.8756497,OpenStreetMap Overpass
+node/9551068442,Shell,Shell,,41.1402781,28.7728915,OpenStreetMap Overpass
+node/9809647732,Opet,Opet,,41.0348065,28.7668233,OpenStreetMap Overpass
+node/9809647745,Petrol Ofisi,Petrol Ofisi,,41.0145162,28.768116,OpenStreetMap Overpass
+node/10282037429,SOCAR,SOCAR,,41.2478541,28.7521214,OpenStreetMap Overpass
+node/10304008916,,,,40.8412104,29.433522,OpenStreetMap Overpass
+node/10304008918,,,,40.8577015,29.394136,OpenStreetMap Overpass
+node/10310472766,Petrol Ofisi,Petrol Ofisi,Başak Petrol,41.011561,28.679358,OpenStreetMap Overpass
+node/10564354703,,,,41.2033847,28.7597825,OpenStreetMap Overpass
+node/10772615935,Petrol Ofisi,Petrol Ofisi,,40.8690844,29.3347683,OpenStreetMap Overpass
+node/10824220569,SOCAR,SOCAR,,40.850586,29.5389374,OpenStreetMap Overpass
+node/10824220570,SOCAR,SOCAR,,40.8554529,29.5376112,OpenStreetMap Overpass
+node/10923543911,,,,41.0059156,28.6596976,OpenStreetMap Overpass
+node/11044421379,Shell,Shell,,41.069131,28.8108143,OpenStreetMap Overpass
+node/11048382462,Sunpet,,,41.2318491,28.5996615,OpenStreetMap Overpass
+node/11127294727,Shell,Shell,,41.0166336,28.9550416,OpenStreetMap Overpass
+node/11232727522,Opet,Opet,Fildişi Petrol,41.0191556,28.9178318,OpenStreetMap Overpass
+node/11251039127,Petrol Ofisi,Petrol Ofisi,,41.0195398,28.6294897,OpenStreetMap Overpass
+node/11331739897,Opet Kadıköy,Opet,Opet Petrolcülük A.Ş.,40.9705543,29.1009385,OpenStreetMap Overpass
+node/11405572353,BP,BP,,41.014193,28.8420492,OpenStreetMap Overpass
+node/11409079450,Opet,Opet,İstanbul Enerji,41.0037021,28.9499428,OpenStreetMap Overpass
+node/11491643319,,,,40.9827619,29.6657486,OpenStreetMap Overpass
+node/11539287402,Shell,Shell,,40.8030838,29.4401118,OpenStreetMap Overpass
+node/11549900108,,,,41.0847966,29.3322251,OpenStreetMap Overpass
+node/11572168439,Petrol Ofisi,Petrol Ofisi,Anibal İnşaat,40.8007242,29.4681733,OpenStreetMap Overpass
+node/11572168440,Nipet,Adapet Petrol,,40.8016956,29.4667791,OpenStreetMap Overpass
+node/11572168441,Opet,Opet,Murat Petrol,40.8026502,29.4607177,OpenStreetMap Overpass
+node/11572168442,Opet,Opet,,40.813543,29.4317558,OpenStreetMap Overpass
+node/11572168443,,,,40.8141603,29.4318381,OpenStreetMap Overpass
+node/11572210078,,,,40.8261432,29.4172899,OpenStreetMap Overpass
+node/11572210095,BP,BP,,40.8113952,29.4219696,OpenStreetMap Overpass
+node/11578262694,Petrol Ofisi,Petrol Ofisi,Modoğlu,40.8807816,29.2499652,OpenStreetMap Overpass
+node/11578383440,Petrol Ofisi,Petrol Ofisi,,40.9884588,29.1455518,OpenStreetMap Overpass
+node/11578580141,Opet,Opet,Opet Petrolcülük A.Ş.,40.9841631,29.0569144,OpenStreetMap Overpass
+node/11586204358,BP,BP,Kazdallar Petrol,40.9912822,28.9195654,OpenStreetMap Overpass
+node/11586204359,Shell,Shell,,41.0022429,28.9198623,OpenStreetMap Overpass
+node/11586204363,Shell,Shell,,41.028186,28.899395,OpenStreetMap Overpass
+node/11586204364,Shell,Shell,Shell,41.0280911,28.9007152,OpenStreetMap Overpass
+node/11586204367,Shell,Shell,,41.0340694,28.8969993,OpenStreetMap Overpass
+node/11586206717,Opet Maltepe,Opet,,40.9290485,29.1462548,OpenStreetMap Overpass
+node/11586206756,Shell Express,Shell Express,,41.0330705,29.1107764,OpenStreetMap Overpass
+node/11586230277,Shell,Shell,,41.0205482,29.1296114,OpenStreetMap Overpass
+node/11586239235,Opet,Opet,Alev Petrol,41.0544147,29.0337873,OpenStreetMap Overpass
+node/11586239236,BP,BP,Dost Petrol,41.0738872,29.0159579,OpenStreetMap Overpass
+node/11586239237,Shell,Shell,,41.0698742,29.0152452,OpenStreetMap Overpass
+node/11586243850,BP,BP,Akceylan Petrol,41.030962,28.814632,OpenStreetMap Overpass
+node/11586251541,BP,BP,,41.0244923,28.8283443,OpenStreetMap Overpass
+node/11586254469,Petrol Ofisi,Petrol Ofisi,Petrol Ofisi,41.0365006,28.8937404,OpenStreetMap Overpass
+node/11586254470,Petrol Ofisi,Petrol Ofisi,Petrol Ofisi,41.0426227,28.8959656,OpenStreetMap Overpass
+node/11586254471,Petrol Ofisi,Petrol Ofisi,Kongu Petrol,41.0405545,28.9117371,OpenStreetMap Overpass
+node/11586794393,Petrol Ofisi,Petrol Ofisi,,41.0296484,28.8668127,OpenStreetMap Overpass
+node/11586797677,BP,BP,Enes Akaryakıt,41.0391741,28.9173024,OpenStreetMap Overpass
+node/11586797679,Petrol Ofisi,Petrol Ofisi,Tuğal Kollektif Şirketi Mustafa Onur ve Ortakları,41.0386246,28.9217428,OpenStreetMap Overpass
+node/11586797681,Türkiye Petrolleri,Türkiye Petrolleri,Merense Petrol,41.0416669,28.9199626,OpenStreetMap Overpass
+node/11586797684,BP,BP,,41.04616,28.9154492,OpenStreetMap Overpass
+node/11586797691,Aytemiz,Aytemiz,Adar Akaryakıt,41.0581266,28.9062807,OpenStreetMap Overpass
+node/11586797692,Petrol Ofisi,Petrol Ofisi,Selahattin Tuğçay Akaryakıt,41.0618394,28.9023144,OpenStreetMap Overpass
+node/11586843989,BP,BP,,41.0501035,28.8998117,OpenStreetMap Overpass
+node/11586843991,BP,BP,,41.0557261,28.896849,OpenStreetMap Overpass
+node/11586843992,Total,TotalEnergies,Güzel Enerji Akaryakıt,41.0610413,28.8921509,OpenStreetMap Overpass
+node/11586843994,BP,BP,Birikim Petrol,41.0729681,28.8867081,OpenStreetMap Overpass
+node/11586843995,Total,TotalEnergies,,41.0761488,28.8807542,OpenStreetMap Overpass
+node/11586879391,Petrol Ofisi,Petrol Ofisi,,41.0785749,28.9720234,OpenStreetMap Overpass
+node/11586900365,Aytemiz,Aytemiz,Aytemiz Petrolcülük,41.089917,28.8831084,OpenStreetMap Overpass
+node/11586900367,Shell,Shell,,41.0912923,28.8843124,OpenStreetMap Overpass
+node/11586904369,Total,TotalEnergies,Eşiyoklar Petrol,41.0869954,28.8893126,OpenStreetMap Overpass
+node/11586904371,Kadoil,Kadoil,Gazipet Akaryakıt,41.082074,28.8930849,OpenStreetMap Overpass
+node/11586904373,Opet,Opet,Hilal Petrol,41.0808264,28.8933585,OpenStreetMap Overpass
+node/11586904374,Petrol Ofisi,Petrol Ofisi,Tapet Petrol,41.0785947,28.8955669,OpenStreetMap Overpass
+node/11586904376,Aytemiz,Aytemiz,ADR Akaryakıt,41.0780506,28.8990355,OpenStreetMap Overpass
+node/11586904378,Shell,Shell,,41.0743185,28.9050783,OpenStreetMap Overpass
+node/11586904405,Shell,Shell,,41.0700316,28.9065991,OpenStreetMap Overpass
+node/11586915454,Shell,Shell,,41.0825089,28.9167443,OpenStreetMap Overpass
+node/11586915455,Opet,Opet,Convey Petrol,41.0794953,28.9304409,OpenStreetMap Overpass
+node/11586915843,Opet,Opet,Kampet Petrol Ürünleri,41.0656572,28.9874809,OpenStreetMap Overpass
+node/11586915844,Aytemiz,Aytemiz,Şişli Petrol,41.0595306,28.9761503,OpenStreetMap Overpass
+node/11586915845,Opet,Opet,Çetay Akaryakıt,41.0565105,28.9651124,OpenStreetMap Overpass
+node/11586916173,Petrol Ofisi,Petrol Ofisi,Dolu Akaryakıt,41.0837014,28.909015,OpenStreetMap Overpass
+node/11586920372,Opet,Opet,Rumeli Akaryakıt,41.056679,28.9391349,OpenStreetMap Overpass
+node/11586920373,BP,BP,,41.0576209,28.9419382,OpenStreetMap Overpass
+node/11586920374,Shell,Shell,,41.0662352,28.9429632,OpenStreetMap Overpass
+node/11586920375,Total,TotalEnergies,Güzel Enerji Akartyakıt,41.0693304,28.9331484,OpenStreetMap Overpass
+node/11586944901,Opet,Opet,İshakoğlu Petrol,41.051054,28.9076389,OpenStreetMap Overpass
+node/11586946749,Opet,Opet,Öztürkler Madeni Yağ,41.0700559,28.8925457,OpenStreetMap Overpass
+node/11586946751,Opet,Opet,Abat Enerji,41.0815516,28.8961251,OpenStreetMap Overpass
+node/11594777248,Opet,Opet,,41.0869448,28.9504627,OpenStreetMap Overpass
+node/11594805019,Total,TotalEnergies,,41.1074455,29.0152133,OpenStreetMap Overpass
+node/11594805021,BP,BP,,41.1084252,29.0233092,OpenStreetMap Overpass
+node/11594805023,Shell,Shell,,41.1157315,29.0232159,OpenStreetMap Overpass
+node/11594829620,Opet,Opet,Paye Petrol,41.0695795,28.916474,OpenStreetMap Overpass
+node/11594829628,Shell Sefaköy,Shell,,40.9963146,28.7966461,OpenStreetMap Overpass
+node/11594831193,Petrol Ofisi,Petrol Ofisi,Kaptanlar Turizm,41.0657354,28.9334658,OpenStreetMap Overpass
+node/11594848769,Opet,Opet,Zengin Petrol,41.1013118,28.9799955,OpenStreetMap Overpass
+node/11597366416,,,,40.8319387,29.4265665,OpenStreetMap Overpass
+node/11597366417,Shell,Shell,,40.8387491,29.4080299,OpenStreetMap Overpass
+node/11597366425,,,,40.854094,29.394338,OpenStreetMap Overpass
+node/11597376277,BP,BP,Veysi Genç Akaryakıt,41.0010194,28.6181483,OpenStreetMap Overpass
+node/11597376278,Shell,Shell,,41.0058414,28.6223911,OpenStreetMap Overpass
+node/11597376279,Opet,Opet,Cob Petrol,41.0163417,28.6259075,OpenStreetMap Overpass
+node/11597376320,Opet,Opet,Renk Petrol,41.0189519,28.6311127,OpenStreetMap Overpass
+node/11597376321,Petrol Ofisi,Petrol Ofisi,Esenpet Petrol,41.0199328,28.6316143,OpenStreetMap Overpass
+node/11597376322,Shell,Shell,,41.009743,28.6550438,OpenStreetMap Overpass
+node/11597376324,Aytemiz,Aytemiz,Esenyurt Petrol,41.0293532,28.6825976,OpenStreetMap Overpass
+node/11597376325,Shell,Shell,,41.0321617,28.6819427,OpenStreetMap Overpass
+node/11597376326,Shell,Shell,,41.0319562,28.674315,OpenStreetMap Overpass
+node/11597376328,Opet,Opet,Anafarta Petrol,41.0510066,28.6877366,OpenStreetMap Overpass
+node/11597382608,Opet,Opet,Opet Market ve Akaryakıt İstasyon İşletmeciliği Anonim Şirketi,41.1921501,28.5708984,OpenStreetMap Overpass
+node/11597382610,Opet,Opet,Opet Market ve Akaryakıt İstasyon İşletmeciliği Anonim Şirketi,41.1955155,28.5699581,OpenStreetMap Overpass
+node/11597382612,Turkish Petrol,,,41.2770965,28.6124561,OpenStreetMap Overpass
+node/11597382614,Total,TotalEnergies,Güneş Enerji,41.2450241,28.7014848,OpenStreetMap Overpass
+node/11597382616,Total,TotalEnergies,,41.2435451,28.7040755,OpenStreetMap Overpass
+node/11597382625,Petrol Ofisi,Petrol Ofisi,,41.179233,28.8840084,OpenStreetMap Overpass
+node/11597382626,Shell,Shell,,41.1560027,29.0357557,OpenStreetMap Overpass
+node/11597506824,BP,BP,Yeni Topçooğlu Petrol,41.0950742,28.8959035,OpenStreetMap Overpass
+node/11741162818,Shell,Shell,,40.9161243,29.169956,OpenStreetMap Overpass
+node/11744840531,,,,40.8982602,29.1641302,OpenStreetMap Overpass
+node/12169841706,Opet,Opet,,41.0554432,29.1887592,OpenStreetMap Overpass
+node/12169841707,Opet,Opet,,41.0552294,29.1847871,OpenStreetMap Overpass
+node/12185834427,,,,41.083835,28.9488526,OpenStreetMap Overpass
+node/12198501225,Shell,Shell,,41.0044928,29.030382,OpenStreetMap Overpass
+node/12199038026,,,,41.0512982,29.0644395,OpenStreetMap Overpass
+node/12205869388,Petrol Ofisi,Petrol Ofisi,,40.9815951,28.884321,OpenStreetMap Overpass
+node/12213415959,Shell,Shell,,41.1013536,28.9659513,OpenStreetMap Overpass
+node/12217538551,,,,41.1028138,29.0000549,OpenStreetMap Overpass
+node/12240815361,Total Energies,TotalEnergies,,40.9172131,29.3543737,OpenStreetMap Overpass
+node/12240815362,Total Tuzla,TotalEnergies,Opet Petrolcülük A.Ş.,40.9206579,29.3502175,OpenStreetMap Overpass
+node/12240935663,BP,BP,,40.9108193,29.1991062,OpenStreetMap Overpass
+node/12240988992,GO Yakıt,İpragaz,NCP Akaryakıt,41.0517471,28.9106435,OpenStreetMap Overpass
+node/12240988994,Petrol Ofisi,Petrol Ofisi,Niyazi Öztürk Petrol,41.055581,28.9096727,OpenStreetMap Overpass
+node/12241268039,,,,41.0807449,28.8941561,OpenStreetMap Overpass
+node/12243925975,TotalEnergies,TotalEnergies,,41.1111874,28.7962122,OpenStreetMap Overpass
+node/12250404051,Total,TotalEnergies,,40.9969726,28.8716266,OpenStreetMap Overpass
+node/12250435536,Opet,Opet,Ataköy Petrol,40.9740305,28.8731698,OpenStreetMap Overpass
+node/12307722101,Shell,Shell,,41.0310203,29.230925,OpenStreetMap Overpass
+node/12438991422,Petrol Ofisi,Petrol Ofisi,,41.129753,28.8377788,OpenStreetMap Overpass
+node/12441887647,BP,BP,Neve Petrol,41.0283824,28.4598276,OpenStreetMap Overpass
+node/12752226166,Opet,Opet,,40.8099108,29.565928,OpenStreetMap Overpass
+node/12821056291,Türkiye Petrolleri,Türkiye Petrolleri,,40.9813442,29.1650507,OpenStreetMap Overpass
+node/12871111807,S Oil,S Oil,Turer Petrol,41.056844,28.9964243,OpenStreetMap Overpass
+node/12961307634,TotalEnergies,TotalEnergies,,40.9044049,29.163743,OpenStreetMap Overpass
+node/13058788561,OPET,Opet,,40.8882781,29.3751917,OpenStreetMap Overpass
+way/225470928,Türkiye Petrolleri,Türkiye Petrolleri,,41.0352907,28.9936989,OpenStreetMap Overpass
+way/229914140,Petrol Ofisi,Petrol Ofisi,Petrol Ofisi,41.0225385,29.0753418,OpenStreetMap Overpass
+way/363637322,,,,40.9993212,29.1816253,OpenStreetMap Overpass
+way/404568673,BP,BP,,40.9314128,29.1287879,OpenStreetMap Overpass
+way/499316078,Shell,Shell,,40.9752336,29.0522882,OpenStreetMap Overpass
+way/499614869,Shell,Shell,,40.9261964,29.3510894,OpenStreetMap Overpass
+way/554699358,Petrol Ofisi,Petrol Ofisi,,41.0129288,28.7917857,OpenStreetMap Overpass
+way/1000476249,Opet,Opet,,41.0647311,28.6716933,OpenStreetMap Overpass
+way/1323152130,Shell,Shell,,41.0983924,28.7910556,OpenStreetMap Overpass
+way/1326208723,SOCAR,SOCAR,Azoil Petrolcülük,41.2574997,28.7025077,OpenStreetMap Overpass
+way/1327932392,Opet,Opet,Güven Elif Otoyol İşletmeleri Anonim Şirketi,41.0926542,28.9172461,OpenStreetMap Overpass
+way/1328615126,,,,40.9916928,29.2238494,OpenStreetMap Overpass
+way/1330404728,Termo,termo,,41.0696317,28.9031435,OpenStreetMap Overpass
+way/1331301679,Opet,Opet,,41.083839,28.8122704,OpenStreetMap Overpass
+way/1331735729,Opet,Opet,Özden Akaryakıt,41.0519538,28.9112213,OpenStreetMap Overpass
+way/1331735730,Energy,Energy,Kuranlar Petrol,41.054143,28.9104477,OpenStreetMap Overpass
+way/1334760761,Shell,Shell,,41.0840749,28.8105147,OpenStreetMap Overpass
+way/1338333199,Shell,Shell,,41.0987516,28.7891186,OpenStreetMap Overpass
+way/1341105372,Shell,Shell,Gökkuşağı Petrol,41.0453417,28.9170198,OpenStreetMap Overpass
+way/1342730996,TotalEnergies,TotalEnergies,OYAK Enerji,41.25183,28.7384002,OpenStreetMap Overpass
+way/1348957922,,,,41.003927,29.2168552,OpenStreetMap Overpass
+way/1349551960,Opet,Opet,,41.1974456,29.1462511,OpenStreetMap Overpass
+way/1362930977,Shell,Shell,Zıngıl Akaryakıt,41.137158,28.8113126,OpenStreetMap Overpass
+way/1363626790,TotalEnergies,TotalEnergies,,40.9819902,28.6824242,OpenStreetMap Overpass
+way/1363924454,,,,40.8521033,29.3115774,OpenStreetMap Overpass
+way/1365202373,,,,41.036882,29.1555844,OpenStreetMap Overpass
+way/1365202374,,,,41.0370596,29.1556618,OpenStreetMap Overpass
+way/1365252224,Aytemiz,Aytemiz,,41.1992848,28.8261295,OpenStreetMap Overpass
+way/1365252225,Shell,Shell,,41.1958837,28.8222872,OpenStreetMap Overpass
+way/1375210243,Shell,Shell,,41.0495087,28.8205087,OpenStreetMap Overpass
+way/1383338957,Petrol Ofisi,Petrol Ofisi,,40.9749913,29.2407212,OpenStreetMap Overpass
+way/1383512553,,,,40.9892906,29.1952693,OpenStreetMap Overpass
+way/1383516712,Opet,Opet,,40.987698,29.1438224,OpenStreetMap Overpass
+way/1383516714,Petrol Ofisi,Petrol Ofisi,,40.9885285,29.1455384,OpenStreetMap Overpass
+way/1384283544,Opet,Opet,,41.0164513,29.1459069,OpenStreetMap Overpass
+way/1384283545,,,,41.0167684,29.1415353,OpenStreetMap Overpass
+way/1384652933,Petrol Ofisi,Petrol Ofisi,,41.008602,29.2016653,OpenStreetMap Overpass
+way/1392693608,Petrol Ofisi,Petrol Ofisi,Dinç Petrol ve Ticaret Limited Şirketi,41.091562,28.6342045,OpenStreetMap Overpass
+way/1395490267,,,,40.9890925,29.1940295,OpenStreetMap Overpass
+way/1395490271,,,,40.988065,29.1931268,OpenStreetMap Overpass
+way/1411773074,,,,41.2034191,28.7598629,OpenStreetMap Overpass
+way/1418767436,Opet,Opet,,41.1135019,28.7979874,OpenStreetMap Overpass
+way/1424261394,Opet,Opet,,41.084085,28.7844624,OpenStreetMap Overpass
+way/1424454806,Shell,Shell,,41.0902612,28.6341511,OpenStreetMap Overpass
+way/1425442035,Petrol Ofisi,Petrol Ofisi,,41.1039976,28.7829606,OpenStreetMap Overpass
+way/1426428474,Opet,Opet,,40.9172729,29.1437507,OpenStreetMap Overpass
+way/1449719989,Petrol Ofisi,Petrol Ofisi,Petrol Ofisi,41.0686901,28.6606461,OpenStreetMap Overpass
+way/1457542359,Opet,Opet,,41.0833601,28.9998088,OpenStreetMap Overpass
+way/1457608138,TotalEnergies,TotalEnergies,,41.0364956,29.0654622,OpenStreetMap Overpass
+way/1458245698,BP,BP,,41.0096292,29.2108598,OpenStreetMap Overpass
+way/1463902928,,,,41.0168551,29.076225,OpenStreetMap Overpass
+way/1463906395,,,,41.0242908,29.0549021,OpenStreetMap Overpass
+way/1466274094,,,,40.9405848,29.3698435,OpenStreetMap Overpass
+way/1466274095,,,,40.9427977,29.3734955,OpenStreetMap Overpass
+way/1466816205,,,,41.0136909,29.2462526,OpenStreetMap Overpass
+way/1466829119,,,,41.0141006,29.1636497,OpenStreetMap Overpass
+way/1466829137,,,,41.0205186,29.1296318,OpenStreetMap Overpass
+way/1468074266,Opet,Opet,,40.9777426,29.22051,OpenStreetMap Overpass
+way/1468074280,,,,40.9694396,29.2201763,OpenStreetMap Overpass
+way/1470145896,Opet,Opet,,41.1990644,29.1485537,OpenStreetMap Overpass
+way/1471445387,,,,41.1204568,28.7824643,OpenStreetMap Overpass
+way/1471776252,,,,41.0370436,29.1553228,OpenStreetMap Overpass
+way/1472906656,,,,41.0329489,29.1108854,OpenStreetMap Overpass
+way/1472906878,Petrol Ofisi,Petrol Ofisi,,41.0164743,29.1776657,OpenStreetMap Overpass
+way/1476871584,,,,41.1365953,28.6229659,OpenStreetMap Overpass
+way/1484254540,Opet,Opet,,41.0599696,28.8409774,OpenStreetMap Overpass
+way/1484261570,,,,41.0540934,28.833546,OpenStreetMap Overpass
